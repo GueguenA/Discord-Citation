@@ -236,7 +236,7 @@ c224 = "Assurez-vous de deux choses. Soyez prudent - les microphones sont toujou
 c225 = "C'est facile d'être vice-président - vous n'avez rien à faire.\nJoe Biden\n46ème président des États-Unis"
 c226 = "Aucun Américain ordinaire ne se soucie de ses droits constitutionnels.\nJoe Biden\n46ème président des États-Unis"
 c227 = "Aucune nation ne devrait menacer ses voisins en amassant des troupes le long de la frontière.\nJoe Biden\n46ème président des États-Unis"
-c228 = "Mon père avait une expression. Il disait:Joey, un emploi est beacoup plus qu'un chèque de paie. C'est votre dignité. C'est un respect. Il s'agit de votre place dans votre communauté.\nJoe Biden\n46ème président des États-Unis"
+c228 = "Mon père avait une expression. Il disait : Joey, un emploi est beaucoup plus qu'un chèque de paie. C'est votre dignité. C'est un respect. Il s'agit de votre place dans votre communauté.\nJoe Biden\n46ème président des États-Unis"
 c229 = "Aucune nation ne devrait attiser l'instabilité dans le pays de son voisin.\nJoe Biden\n46ème président des États-Unis"
 
 
