@@ -1,6 +1,6 @@
 import random   # necessaire pour choisir aléatoirement une citation
 import os   # necessaire pour que le token du bot n'apparaisse pas en clair dans le code
-from dotenv import load_dotenv  # //
+from dotenv import load_dotenv  # necessaire pour que le token du bot n'apparaisse pas en clair dans le code
 from discord.ext import commands    # necessaire poue que le bot réponde au commande
 
 
